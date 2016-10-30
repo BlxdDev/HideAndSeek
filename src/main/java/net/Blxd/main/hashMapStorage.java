@@ -16,6 +16,15 @@ import org.bukkit.event.entity.FoodLevelChangeEvent;
 import org.bukkit.event.player.PlayerJoinEvent;
 import org.bukkit.event.weather.WeatherChangeEvent;
 
+/*
+ * This plugin was made by Blxd for use on players servers this 
+ * code may not be decompiled altered taken for profit or 
+ * used without and consent of permission by Blxd.
+ * If any of this code is taken without any permission given
+ * actions will be given towards the offender in any such manner
+ * that may harm the reputation of the offender.
+ */
+
 public class hashMapStorage implements Listener{
 	
 	@SuppressWarnings("unused")
